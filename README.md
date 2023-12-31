@@ -23,4 +23,3 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Houssamkarroum&)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Houssamkarroum&theme=github)
